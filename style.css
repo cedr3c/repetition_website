@@ -115,3 +115,26 @@
     margin-top: 10%;
     text-align: center;
 }
+
+.bi {
+    color: black;
+}
+
+@media only screen and (max-width: 600px) {
+.mg22 {
+    margin-top: 80%;
+}
+
+.bi {
+    width: 30%;
+    height: 30%;
+}
+
+.tel {
+    font-size: 150%;
+}
+
+.icont {
+    width: 10%;
+}
+}
