@@ -1,0 +1,117 @@
+.sticky {
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: white;
+    color: black;
+}
+
+.nav-pills .nav-link {
+    color: white;
+}
+
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.mg {
+    margin-top: 20%;
+}
+
+.mg20 {
+    position: absolute;
+    z-index: 100;
+    margin-top: 0%;
+}
+
+.mg2 {
+    margin-top: 50%;
+}
+
+.mg3 {
+    margin-top: 5%;
+}
+
+
+.mg4 {
+    margin-top: 5%;
+}
+
+.mg5 {
+    margin-top: 10%;
+}
+
+.Emailbutton {
+    margin-top: 1%;
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+
+.email {
+    color: white;
+    text-decoration: none;
+}
+
+.Pizza {
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    background-image: url(pizza.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.white2 {
+    color: white;
+    background-color: #212529;
+}
+
+#scrollspyHeading1 {
+    background-color: #212529;
+    padding: 1%;
+}
+
+.text {
+    padding: 1%;
+}
+
+.ml {
+    margin-left: 1%;
+}
+
+.carousel {
+    height: 70vh;
+}
+
+.carousel-item {
+    height: 70vh;
+}
+
+.mg22 {
+    margin-left: 50%;
+    margin-top: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.tel {
+    font-size: 600%;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.emailicon {
+    margin-top: 10%;
+    text-align: center;
+}
